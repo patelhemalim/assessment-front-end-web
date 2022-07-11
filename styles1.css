@@ -1,0 +1,169 @@
+.box1 {
+    height: 600px;
+    width: 700px;
+    background-color: rgb(237, 111, 15);
+    position: absolute;
+    bottom: 0px;
+    left: 600px;
+    border: outset rgb(244, 237, 237);
+    box-shadow: inset;
+}
+
+
+.red {
+    height: 160px;
+    width: 300px;
+    background-color: rgb(231, 223, 219);
+    border: solid rgb(17, 7, 3);
+    bottom: 160px;
+    left: 390px;
+    position: absolute;
+
+}
+
+h1 {
+    color: rgb(11, 10, 10);
+    font-size: 2vw;
+    position: absolute;
+    left: 420px;
+    bottom: 260px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration:underline ;
+}
+
+p1 {
+    color: rgb(7, 7, 7);
+    font-size: 1.5vw;
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    left: 420px;
+    bottom: 180px;
+}
+
+html * {
+
+    font-family: 'Gill Sans';
+  }
+
+h2 {
+    color: rgb(10, 8, 8);
+    font-size: x-large;
+    position: absolute;
+    left: 690px;
+    bottom: 530px;
+    text-decoration:underline;
+}
+
+h3 {
+    color: rgb(7, 7, 7);
+    font-size: x-large;
+    position: absolute;
+    left: 690px;
+    bottom: 360px;
+    text-decoration:underline;
+}
+
+h4 {
+    color: rgb(6, 1, 1);
+    font-size: x-large;
+    position: absolute;
+    left: 700px;
+    bottom: 170px;
+    text-decoration:underline;
+}
+
+h5 {
+    color: rgb(6, 1, 1);
+    font-size: x-large;
+    position: absolute;
+    left: 700px;
+    bottom: 10px;
+    text-decoration:underline;
+}
+
+.ul1 {
+    color: rgb(8, 0, 0);
+    left: 900px;
+    bottom: 450px;
+    position: absolute;
+    font-size: large;
+}
+
+.ul2 {
+    color: rgb(8, 0, 0);
+    left: 900px;
+    bottom: 270px;
+    position: absolute;
+    font-size: large;
+}
+
+.ul3 {
+    color: rgb(8, 0, 0);
+    left: 900px;
+    bottom: 110px;
+    position: absolute;
+    font-size: large;
+}
+
+nav {
+
+    position: absolute;
+
+}
+
+.links {
+    position: absolute;
+    left: 920px;
+    bottom: 70px;
+    display: inline;
+}
+
+.profilepic {
+    position: absolute;
+    left: 500px;
+    bottom: 320px;
+}
+
+
+#color{
+    left:1000px;
+    bottom:70px;
+    position: absolute;
+}
+
+#place{
+    left:1000px;
+    bottom:40px;
+    position: absolute;
+}
+
+#ritual{
+    left:1000px;
+    bottom:00px;
+    position: absolute;
+}
+
+.colorbtn{
+    background-color: yellow;
+    color: black;
+    margin-bottom: 20px;
+    
+    font-size: 16px;
+
+}
+.placebtn{
+    background-color: yellow;
+    color: black;
+    margin-top: 11px;
+    font-size: 16px;
+}
+
+
+.ritualbtn{
+    background-color: yellow;
+    color: black;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
