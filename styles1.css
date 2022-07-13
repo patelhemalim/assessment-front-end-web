@@ -3,7 +3,7 @@
     width: 700px;
     background-color: rgb(237, 111, 15);
     position: absolute;
-    bottom: 0px;
+    bottom:10px;
     left: 600px;
     border: outset rgb(244, 237, 237);
     box-shadow: inset;
@@ -28,7 +28,7 @@ h1 {
     left: 420px;
     bottom: 260px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-decoration:underline ;
+    text-decoration: underline;
 }
 
 p1 {
@@ -44,7 +44,7 @@ p1 {
 html * {
 
     font-family: 'Gill Sans';
-  }
+}
 
 h2 {
     color: rgb(10, 8, 8);
@@ -52,7 +52,7 @@ h2 {
     position: absolute;
     left: 690px;
     bottom: 530px;
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 h3 {
@@ -61,7 +61,7 @@ h3 {
     position: absolute;
     left: 690px;
     bottom: 360px;
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 h4 {
@@ -70,7 +70,7 @@ h4 {
     position: absolute;
     left: 700px;
     bottom: 170px;
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 h5 {
@@ -79,7 +79,7 @@ h5 {
     position: absolute;
     left: 700px;
     bottom: 10px;
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 .ul1 {
@@ -126,44 +126,33 @@ nav {
 }
 
 
-#color{
-    left:1000px;
-    bottom:70px;
+#color {
+    left: 1000px;
+    bottom: 70px;
     position: absolute;
 }
 
-#place{
-    left:1000px;
-    bottom:40px;
+#place {
+    left: 1000px;
+    bottom: 40px;
     position: absolute;
 }
 
-#ritual{
-    left:1000px;
-    bottom:00px;
+#ritual {
+    left: 1000px;
+    bottom: 00px;
     position: absolute;
 }
 
-.colorbtn{
+.btn {
     background-color: yellow;
     color: black;
-    margin-bottom: 20px;
-    
-    font-size: 16px;
-
+    padding: 5px;
+    font-size: 10px;
 }
-.placebtn{
+.btn {
     background-color: yellow;
     color: black;
-    margin-top: 11px;
-    font-size: 16px;
+    font-size: 10px;
+    margin: 10px;
 }
-
-
-.ritualbtn{
-    background-color: yellow;
-    color: black;
-    margin-top: 30px;
-    font-size: 16px;
-}
-
